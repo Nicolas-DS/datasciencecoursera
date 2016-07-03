@@ -1,2 +1,0 @@
-# datasciencecoursera
-Question 2
